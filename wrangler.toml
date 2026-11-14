@@ -1,0 +1,4 @@
+# Configuração do Cloudflare Pages (usada pelo Git integration e pelo comando `wrangler pages deploy`).
+name = "academia-premium"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "./out"

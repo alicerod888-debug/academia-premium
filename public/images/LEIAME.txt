@@ -1,0 +1,4 @@
+Coloque aqui as fotos e vídeos da academia (jpg, webp, mp4).
+Depois informe o caminho em lib/site.config.ts, por exemplo: "/images/musculacao.jpg".
+Enquanto um campo de imagem estiver vazio, o site mostra uma arte dourada gerada no código (nada quebra).
+Dica: fotos em WebP com até 300 KB; vídeo do hero em MP4 (H.264) de até 6 MB.
